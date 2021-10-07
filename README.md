@@ -1,0 +1,2 @@
+# magyar-udvozlo-bot
+Segítség:
